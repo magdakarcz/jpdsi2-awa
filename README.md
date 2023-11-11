@@ -1,3 +1,3 @@
+## jpdsi2-awa
 # jpdsi2-awa
-
-zadanie 1 - kalkulator kredytowy
+Zadanie 1 - Kalkulator kredytowy - Pierwsza aplikacja JSF
