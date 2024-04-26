@@ -21,4 +21,16 @@ APLIKACJE INTERNETOWE CZ.2 (JAVA)
   * przekazywanie obiektów między stronami/ziarnami przez obiekt żądania
   * przekazywanie obiektów między stronami/ziarnami przez obiekt sesji
   * wyświetlanie kolekcji (listy, tabele, powtarzalne bloki)
+ 
+ + Zadanie 5  - Piąta aplikacja JSF
+  * Servlet
+  * filtry, ochrona dostępu do zasobów
+
+ + Zadanie 6  - Szósta aplikacja JSF
+  * aplikacja korporacyjna: moduł EJB, moduł web
+  * konfiguracja serwera: dodanie sterownika BD, konfiguracja źródła danych
+  * ziarna EJB: Encje, ziarna bezstanowe (model danych, dostęp do danych, warstwa DAO)
+  * użycie modułu EJB w aplikacji JSF: Wstrzykiwanie zależności
+  * zapytania sparametryzowane do bazy danych, edycja i tworzenie rekordów
+  * prezentacja list obiektów, formularz edycji
     
